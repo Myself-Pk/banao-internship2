@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/banao-internship2/static/css/main.eeef5e24.css",
+    "main.js": "/banao-internship2/static/js/main.5f6a4078.js",
+    "static/js/496.ff5bac71.chunk.js": "/banao-internship2/static/js/496.ff5bac71.chunk.js",
+    "static/media/homeBanner.png": "/banao-internship2/static/media/homeBanner.4bae427d8d26b14da3d2.png",
+    "index.html": "/banao-internship2/index.html",
+    "main.eeef5e24.css.map": "/banao-internship2/static/css/main.eeef5e24.css.map",
+    "main.5f6a4078.js.map": "/banao-internship2/static/js/main.5f6a4078.js.map",
+    "496.ff5bac71.chunk.js.map": "/banao-internship2/static/js/496.ff5bac71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeef5e24.css",
+    "static/js/main.5f6a4078.js"
+  ]
+}
